@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ColorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmArrowAndResults.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GameBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumberOfGuessesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlayerGuess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
