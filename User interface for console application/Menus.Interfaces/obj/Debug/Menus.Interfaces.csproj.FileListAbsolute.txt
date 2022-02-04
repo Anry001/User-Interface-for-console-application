@@ -1,0 +1,27 @@
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\A22 Ex04 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll.config
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\bin\Debug\Menus.Interfaces.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\obj\Debug\Menus.Interfaces.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 4\Ex04\Ex04 fot the git\User interface for console application\Menus.Interfaces\obj\Debug\Menus.Interfaces.pdb
